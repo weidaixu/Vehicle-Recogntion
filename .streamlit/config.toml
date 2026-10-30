@@ -1,0 +1,16 @@
+[theme]
+base = "dark"
+primaryColor = "#ff7a1a"
+backgroundColor = "#07111f"
+secondaryBackgroundColor = "#101d2d"
+textColor = "#eaf2fa"
+borderColor = "#26384e"
+showWidgetBorder = true
+baseRadius = "large"
+buttonRadius = "medium"
+font = "Inter, Microsoft YaHei, sans-serif"
+headingFont = "Inter, Microsoft YaHei, sans-serif"
+codeFont = "JetBrains Mono, monospace"
+
+[server]
+headless = true

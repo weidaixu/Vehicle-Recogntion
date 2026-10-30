@@ -1,0 +1,402 @@
+[
+  {
+    "id": "0006",
+    "name_from_new": "捷豹_捷豹F-PACE",
+    "name_from_old": "捷豹_捷豹F-PACE==Jaguar_F-PACE",
+    "type_info": "SUV####中型SUV==SUV####Mid-size SUV",
+    "train_count": 114,
+    "val_count": 38
+  },
+  {
+    "id": "0009",
+    "name_from_new": "沃尔沃_沃尔沃S90",
+    "name_from_old": "沃尔沃_沃尔沃S90==Volvo_Volvo S90",
+    "type_info": "轿车####中大型车==Sedan####Upper Mid-size Sedan",
+    "train_count": 117,
+    "val_count": 39
+  },
+  {
+    "id": "0052",
+    "name_from_new": "广汽传祺_传祺GS4",
+    "name_from_old": "广汽传祺_传祺GS4==GAC Trumpchi_Trumpchi GS4",
+    "type_info": "SUV####紧凑型SUV==SUV####Compact SUV",
+    "train_count": 115,
+    "val_count": 38
+  },
+  {
+    "id": "0080",
+    "name_from_new": "日产_途乐",
+    "name_from_old": "日产_途乐==Nissan_Patrol",
+    "type_info": "SUV####大型SUV==SUV####Large SUV",
+    "train_count": 115,
+    "val_count": 38
+  },
+  {
+    "id": "0119",
+    "name_from_new": "凯迪拉克_凯迪拉克XT6",
+    "name_from_old": "凯迪拉克_凯迪拉克XT6==Cadillac_Cadillac XT6",
+    "type_info": "SUV####中大型SUV==SUV####Upper Mid-size SUV",
+    "train_count": 117,
+    "val_count": 39
+  },
+  {
+    "id": "0137",
+    "name_from_new": "凯迪拉克_凯迪拉克CT6",
+    "name_from_old": "凯迪拉克_凯迪拉克CT6==Cadillac_Cadillac CT6",
+    "type_info": "轿车####中大型车==Sedan####Upper Mid-size Sedan",
+    "train_count": 114,
+    "val_count": 38
+  },
+  {
+    "id": "0140",
+    "name_from_new": "雪佛兰_开拓者",
+    "name_from_old": "雪佛兰_开拓者==Chevrolet_Trailblazer",
+    "type_info": "SUV####中大型SUV==SUV####Upper Mid-size SUV",
+    "train_count": 114,
+    "val_count": 38
+  },
+  {
+    "id": "0157",
+    "name_from_new": "星途_星途揽月",
+    "name_from_old": "星途_星途揽月==Exeed_Exeed Luny",
+    "type_info": "SUV####中大型SUV==SUV####Upper Mid-size SUV",
+    "train_count": 116,
+    "val_count": 38
+  },
+  {
+    "id": "0161",
+    "name_from_new": "本田_缤智",
+    "name_from_old": "本田_缤智==Honda_HR-V",
+    "type_info": "SUV####小型SUV==SUV####Small SUV",
+    "train_count": 114,
+    "val_count": 38
+  },
+  {
+    "id": "0173",
+    "name_from_new": "英菲尼迪_英菲尼迪Q50L",
+    "name_from_old": "英菲尼迪_英菲尼迪Q50L==Infiniti_Q50L",
+    "type_info": "轿车####中型车==Sedan####Mid-size Sedan",
+    "train_count": 117,
+    "val_count": 39
+  },
+  {
+    "id": "0183",
+    "name_from_new": "保时捷_保时捷718",
+    "name_from_old": "保时捷_保时捷718==Porsche_Porsche 718",
+    "type_info": "跑车####跑车==Sports Car####Sports Car",
+    "train_count": 123,
+    "val_count": 41
+  },
+  {
+    "id": "0192",
+    "name_from_new": "比亚迪_唐DM",
+    "name_from_old": "比亚迪_唐DM==BYD_Tang DM",
+    "type_info": "SUV####中型SUV==SUV####Mid-size SUV",
+    "train_count": 115,
+    "val_count": 38
+  },
+  {
+    "id": "0194",
+    "name_from_new": "红旗_红旗E-HS9",
+    "name_from_old": "红旗_红旗E-HS9==Hongqi_Hongqi E-HS9",
+    "type_info": "SUV####大型SUV==SUV####Large SUV",
+    "train_count": 114,
+    "val_count": 38
+  },
+  {
+    "id": "0202",
+    "name_from_new": "荣威_荣威iMAX8",
+    "name_from_old": "荣威_荣威iMAX8==Roewe_Roewe iMAX8",
+    "type_info": "MPV####中大型MPV==MPV####Upper Mid-size MPV",
+    "train_count": 116,
+    "val_count": 38
+  },
+  {
+    "id": "0222",
+    "name_from_new": "宝马_宝马X7",
+    "name_from_old": "宝马_宝马X7==BMW_BMW X7",
+    "type_info": "SUV####大型SUV==SUV####Large SUV",
+    "train_count": 115,
+    "val_count": 38
+  },
+  {
+    "id": "0231",
+    "name_from_new": "荣威_荣威i5",
+    "name_from_old": "荣威_荣威i5==Roewe_Roewe i5",
+    "type_info": "轿车####紧凑型车==Sedan####Compact Sedan",
+    "train_count": 115,
+    "val_count": 38
+  },
+  {
+    "id": "0233",
+    "name_from_new": "斯柯达_速派",
+    "name_from_old": "斯柯达_速派==Škoda_Superb",
+    "type_info": "轿车####中型车==Sedan####Mid-size Sedan",
+    "train_count": 116,
+    "val_count": 38
+  },
+  {
+    "id": "0251",
+    "name_from_new": "别克_昂科旗",
+    "name_from_old": "别克_昂科旗==Buick_Enclave",
+    "type_info": "SUV####中大型SUV==SUV####Upper Mid-size SUV",
+    "train_count": 115,
+    "val_count": 38
+  },
+  {
+    "id": "0303",
+    "name_from_new": "大众_桑塔纳",
+    "name_from_old": "大众_桑塔纳==Volkswagen_Santana",
+    "type_info": "轿车####紧凑型车==Sedan####Compact Sedan",
+    "train_count": 115,
+    "val_count": 38
+  },
+  {
+    "id": "0307",
+    "name_from_new": "红旗_红旗H9",
+    "name_from_old": "红旗_红旗H9==Hongqi_Hongqi H9",
+    "type_info": "轿车####中大型车==Sedan####Upper Mid-size Sedan",
+    "train_count": 114,
+    "val_count": 38
+  },
+  {
+    "id": "0379",
+    "name_from_new": "本田_本田UR-V",
+    "name_from_old": "本田_本田UR-V==Honda_Honda UR-V",
+    "type_info": "SUV####中型SUV==SUV####Mid-size SUV",
+    "train_count": 114,
+    "val_count": 38
+  },
+  {
+    "id": "0418",
+    "name_from_new": "大众_途岳",
+    "name_from_old": "大众_途岳==Volkswagen_Teramont",
+    "type_info": "SUV####紧凑型SUV==SUV####Compact SUV",
+    "train_count": 119,
+    "val_count": 39
+  },
+  {
+    "id": "0432",
+    "name_from_new": "奔驰_奔驰GLE",
+    "name_from_old": "奔驰_奔驰GLE==Mercedes-Benz_Mercedes-Benz GLE",
+    "type_info": "SUV####中大型SUV==SUV####Upper Mid-size SUV",
+    "train_count": 118,
+    "val_count": 39
+  },
+  {
+    "id": "0480",
+    "name_from_new": "宝马_宝马Z4",
+    "name_from_old": "宝马_宝马Z4==BMW_BMW Z4",
+    "type_info": "跑车####跑车==Sports Car####Sports Car",
+    "train_count": 115,
+    "val_count": 38
+  },
+  {
+    "id": "0492",
+    "name_from_new": "捷豹_捷豹XFL",
+    "name_from_old": "捷豹_捷豹XFL==Jaguar_Jaguar XFL",
+    "type_info": "轿车####中大型车==Sedan####Upper Mid-size Sedan",
+    "train_count": 114,
+    "val_count": 38
+  },
+  {
+    "id": "0497",
+    "name_from_new": "宾利_飞驰",
+    "name_from_old": "宾利_飞驰==Bentley_Flying Spur",
+    "type_info": "轿车####大型车==Sedan####Large Sedan",
+    "train_count": 114,
+    "val_count": 38
+  },
+  {
+    "id": "0536",
+    "name_from_new": "林肯_林肯Z",
+    "name_from_old": "林肯_林肯Z==Lincoln_Lincoln Z",
+    "type_info": "轿车####中型车==Sedan####Mid-size Sedan",
+    "train_count": 115,
+    "val_count": 38
+  },
+  {
+    "id": "0541",
+    "name_from_new": "马自达_马自达3 昂克赛拉",
+    "name_from_old": "马自达_马自达3 昂克赛拉==Mazda_Mazda3 Axela",
+    "type_info": "轿车####紧凑型车==Sedan####Compact Sedan",
+    "train_count": 118,
+    "val_count": 39
+  },
+  {
+    "id": "0555",
+    "name_from_new": "哈弗_哈弗H9",
+    "name_from_old": "哈弗_哈弗H9==Haval_Haval H9",
+    "type_info": "SUV####中大型SUV==SUV####Upper Mid-size SUV",
+    "train_count": 118,
+    "val_count": 39
+  },
+  {
+    "id": "0558",
+    "name_from_new": "现代_现代ix35",
+    "name_from_old": "现代_现代ix35==Hyundai_ix35",
+    "type_info": "SUV####紧凑型SUV==SUV####Compact SUV",
+    "train_count": 117,
+    "val_count": 39
+  },
+  {
+    "id": "0561",
+    "name_from_new": "斯柯达_明锐",
+    "name_from_old": "斯柯达_明锐==Škoda_Octavia",
+    "type_info": "轿车####紧凑型车==Sedan####Compact Sedan",
+    "train_count": 114,
+    "val_count": 38
+  },
+  {
+    "id": "0589",
+    "name_from_new": "别克_昂科拉",
+    "name_from_old": "别克_昂科拉==Buick_Encore",
+    "type_info": "SUV####小型SUV==SUV####Small SUV",
+    "train_count": 114,
+    "val_count": 38
+  },
+  {
+    "id": "0595",
+    "name_from_new": "凯迪拉克_凯迪拉克XT5",
+    "name_from_old": "凯迪拉克_凯迪拉克XT5==Cadillac_Cadillac XT5",
+    "type_info": "SUV####中型SUV==SUV####Mid-size SUV",
+    "train_count": 117,
+    "val_count": 39
+  },
+  {
+    "id": "0627",
+    "name_from_new": "雪佛兰_迈锐宝XL",
+    "name_from_old": "雪佛兰_迈锐宝XL==Chevrolet_Malibu XL",
+    "type_info": "轿车####中型车==Sedan####Mid-size Sedan",
+    "train_count": 115,
+    "val_count": 38
+  },
+  {
+    "id": "0632",
+    "name_from_new": "奥迪_奥迪A6 China Domestic Version",
+    "name_from_old": "奥迪_奥迪A6 China Domestic Version==Audi_A6 China Domestic Version",
+    "type_info": "轿车####中大型车==Sedan####Upper Mid-size Sedan",
+    "train_count": 186,
+    "val_count": 62
+  },
+  {
+    "id": "0638",
+    "name_from_new": "日产_蓝鸟",
+    "name_from_old": "日产_蓝鸟==Nissan_Bluebird",
+    "type_info": "轿车####紧凑型车==Sedan####Compact Sedan",
+    "train_count": 119,
+    "val_count": 39
+  },
+  {
+    "id": "0644",
+    "name_from_new": "保时捷_Taycan",
+    "name_from_old": "保时捷_Taycan==Porsche_Taycan",
+    "type_info": "轿车####中大型车==Sedan####Upper Mid-size Sedan",
+    "train_count": 114,
+    "val_count": 38
+  },
+  {
+    "id": "0659",
+    "name_from_new": "本田_凌派",
+    "name_from_old": "本田_凌派==Honda_Gienia",
+    "type_info": "轿车####紧凑型车==Sedan####Compact Sedan",
+    "train_count": 118,
+    "val_count": 39
+  },
+  {
+    "id": "0665",
+    "name_from_new": "本田_艾力绅",
+    "name_from_old": "本田_艾力绅==Honda_Odyssey",
+    "type_info": "MPV####中型MPV==MPV####Mid-size MPV",
+    "train_count": 118,
+    "val_count": 39
+  },
+  {
+    "id": "0671",
+    "name_from_new": "宝马_宝马M2",
+    "name_from_old": "宝马_宝马M2==BMW_M2",
+    "type_info": "轿车####紧凑型车==Sedan####Compact Sedan",
+    "train_count": 115,
+    "val_count": 38
+  },
+  {
+    "id": "0681",
+    "name_from_new": "路虎_揽胜星脉",
+    "name_from_old": "路虎_揽胜星脉==Land Rover_Range Rover Velar",
+    "type_info": "SUV####中型SUV==SUV####Mid-size SUV",
+    "train_count": 118,
+    "val_count": 39
+  },
+  {
+    "id": "0697",
+    "name_from_new": "东风风行_菱智",
+    "name_from_old": "东风风行_菱智==Dongfeng Fengxing_Lingzhi",
+    "type_info": "MPV####中型MPV==MPV####Mid-size MPV",
+    "train_count": 118,
+    "val_count": 39
+  },
+  {
+    "id": "0698",
+    "name_from_new": "丰田_亚洲龙",
+    "name_from_old": "丰田_亚洲龙==Toyota_Avalon",
+    "type_info": "轿车####中型车==Sedan####Mid-size Sedan",
+    "train_count": 115,
+    "val_count": 38
+  },
+  {
+    "id": "0727",
+    "name_from_new": "奔驰_奔驰E级",
+    "name_from_old": "奔驰_奔驰E级==Mercedes-Benz_Mercedes-Benz E-Class",
+    "type_info": "轿车####中大型车==Sedan####Upper Mid-size Sedan",
+    "train_count": 117,
+    "val_count": 39
+  },
+  {
+    "id": "0742",
+    "name_from_new": "雪佛兰_科鲁泽",
+    "name_from_old": "雪佛兰_科鲁泽==Chevrolet_Cruze",
+    "type_info": "轿车####紧凑型车==Sedan####Compact Sedan",
+    "train_count": 117,
+    "val_count": 39
+  },
+  {
+    "id": "0743",
+    "name_from_new": "哈弗_哈弗大狗",
+    "name_from_old": "哈弗_哈弗大狗==Haval_Haval Big Dog",
+    "type_info": "SUV####紧凑型SUV==SUV####Compact SUV",
+    "train_count": 116,
+    "val_count": 38
+  },
+  {
+    "id": "0745",
+    "name_from_new": "玛莎拉蒂_Ghibli",
+    "name_from_old": "玛莎拉蒂_Ghibli==Maserati_Ghibli",
+    "type_info": "轿车####中大型车==Sedan####Upper Mid-size Sedan",
+    "train_count": 119,
+    "val_count": 39
+  },
+  {
+    "id": "0759",
+    "name_from_new": "奔驰_奔驰CLS",
+    "name_from_old": "奔驰_奔驰CLS==Mercedes-Benz_Mercedes-Benz CLS",
+    "type_info": "轿车####中大型车==Sedan####Upper Mid-size Sedan",
+    "train_count": 116,
+    "val_count": 38
+  },
+  {
+    "id": "0806",
+    "name_from_new": "林肯_领航员",
+    "name_from_old": "林肯_领航员==Lincoln_Navigator",
+    "type_info": "SUV####大型SUV==SUV####Large SUV",
+    "train_count": 115,
+    "val_count": 38
+  },
+  {
+    "id": "0984",
+    "name_from_new": "斯柯达_昕锐",
+    "name_from_old": "斯柯达_昕锐==Škoda_ScalA",
+    "type_info": "轿车####紧凑型车==Sedan####Compact Sedan",
+    "train_count": 117,
+    "val_count": 39
+  }
+]
